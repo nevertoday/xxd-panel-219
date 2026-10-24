@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 219｜Doodle Travel Sketch with Pencil Accents: redraws a photo's subject as a loose black hand-drawn doodle sketch — wobbly, repeated, hesitant lines, dense hatching for hair, clothes, plants and shadow, slightly naive proportions — mostly black line on white with only two to four memorable colours from the photo dabbed in coloured pencil on clothes, faces, plants or key objects, a small subject with just a horizon, street or building outline as setting, generous white space and a few journal-style notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-219 or asks for travel-journal doodles, sketchbook line drawing with coloured-pencil accents from a photo.",
+  "short_description": "彩铅点染旅行手帐线稿：把照片画成黑色速写线稿，只用彩铅点几处颜色",
+  "zh-CN": {
+    "name": "彩铅点染旅行手帐线稿",
+    "tagline": "把照片画成一页旅行手帐里的黑色速写，只用彩铅点几处颜色。",
+    "look": "照片主体被重新画成松散的黑色手绘线稿：线条抖动、重复描线、带着停顿，头发、衣物、植物和阴影用密集排线来表现，造型略稚拙，像旅行手帐里的随手速写。大部分是黑白线稿和留白，只挑照片里两到四种最有记忆点的颜色，用彩铅或淡色在衣服、脸、植物或关键物件上点一点。背景只留地平线、街道、建筑轮廓之类的必要暗示，主体小，留白多。留白里有几句像观察日记的小注记。",
+    "traits": ["黑色速写线", "排线肌理", "彩铅点染", "旅行手帐", "大面积留白"],
+    "good": [
+      "旅途和街头的片段：咖啡馆里的人、海边散步、老街转角、车站站台",
+      "有衣着、配件或植物等可以点色的人物和物件：戴草帽的人、一束花、一辆单车",
+      "想做旅行手帐、观察日记或插画随笔的照片"
+    ],
+    "poor": [
+      "靠整幅饱满色彩的照片：灯光秀、满屏花海，大部分会变成黑白线条",
+      "需要精确比例的产品图、证件照或建筑图纸",
+      "想要整洁矢量线或照片描边滤镜效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Doodle Travel Sketch with Pencil Accents",
+    "tagline": "Turns a photo into a black ink travel-journal sketch with just a few touches of coloured pencil.",
+    "look": "Your subject is redrawn as a loose black hand-drawn sketch: wobbly lines, repeated strokes and small pauses, with dense hatching for hair, clothes, plants and shadows, and slightly naive proportions, like a quick drawing in a travel journal. Most of it stays black line and white space; only two to four of the most memorable colours in the photo are dabbed on in coloured pencil or a pale wash, on clothing, a face, plants or a key object. The setting is reduced to what is needed, such as a horizon, a street or a building outline, with a small subject and plenty of white. A few short notes like an observation diary sit in the margins.",
+    "traits": ["Black sketch line", "Hatching texture", "Coloured-pencil accents", "Travel journal", "Wide white space"],
+    "good": [
+      "Moments from trips and streets: someone in a café, a walk by the sea, an old street corner, a station platform",
+      "People and objects with clothing, accessories or plants to colour: someone in a straw hat, a bunch of flowers, a bicycle",
+      "Photos you want as a travel-journal page, an observation diary or an illustrated essay"
+    ],
+    "poor": [
+      "Photos that rely on full, saturated colour, such as light shows or fields of flowers, which mostly become black line",
+      "Product shots, ID photos or architectural drawings that need exact proportions",
+      "Requests for clean vector lines or a photo-outline filter look"
+    ]
+  },
+  "ja": {
+    "name": "色鉛筆を添えた旅日記スケッチ",
+    "tagline": "写真を旅手帳の黒いペンスケッチにし、色鉛筆で数か所だけ色を差します。",
+    "look": "主役をゆるい黒の手描き線画で描き直します。線は揺れ、なぞり直しや止まりが残り、髪、服、植物、影は細かいハッチングで表し、形は少し素朴で、旅手帳の走り描きのようです。大部分は黒い線と余白のままで、写真で印象的な色を二〜四色だけ選び、服、顔、植物、大事な物に色鉛筆や淡い色で少し差します。背景は地平線、通り、建物の輪郭など必要なものだけで、主役は小さく、余白は広く取ります。余白には観察日記のような短いメモが添えられます。",
+    "traits": ["黒いスケッチ線", "ハッチングの質感", "色鉛筆の差し色", "旅手帳", "広い余白"],
+    "good": [
+      "旅先や街角の一場面：カフェの人、海辺の散歩、古い街角、駅のホーム",
+      "服や小物、植物など色を差せる人や物：麦わら帽子の人、花束、自転車",
+      "旅手帳、観察日記、イラストエッセイにしたい写真"
+    ],
+    "poor": [
+      "画面いっぱいの鮮やかな色が魅力の写真：ライトショー、一面の花畑（ほとんど白黒の線になります）",
+      "正確な比率が必要な商品写真、証明写真、建築図面",
+      "整ったベクター線や写真の輪郭抽出フィルターのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "색연필 포인트 여행 스케치",
+    "tagline": "사진을 여행 다이어리 속 검은 펜 스케치로 그리고 색연필로 몇 군데만 색을 더합니다.",
+    "look": "주인공을 느슨한 검은 손그림 선화로 다시 그립니다. 선은 흔들리고 덧그린 자국과 멈춤이 남으며, 머리카락, 옷, 식물, 그림자는 촘촘한 해칭으로 표현하고 형태는 조금 서툴러 여행 다이어리의 즉석 스케치 같습니다. 대부분은 검은 선과 여백으로 두고, 사진에서 가장 기억에 남는 색 두세 가지에서 네 가지만 골라 옷, 얼굴, 식물, 중요한 사물에 색연필이나 옅은 색으로 살짝 칠합니다. 배경은 지평선, 거리, 건물 윤곽처럼 꼭 필요한 암시만 남기고, 주인공은 작게, 여백은 넓게 둡니다. 여백에는 관찰 일기 같은 짧은 메모가 들어갑니다.",
+    "traits": ["검은 스케치 선", "해칭 질감", "색연필 포인트", "여행 다이어리", "넓은 여백"],
+    "good": [
+      "여행지와 거리의 한 장면: 카페 속 사람, 바닷가 산책, 오래된 골목 모퉁이, 기차역 승강장",
+      "옷, 소품, 식물처럼 색을 더할 곳이 있는 사람과 사물: 밀짚모자를 쓴 사람, 꽃다발, 자전거",
+      "여행 다이어리, 관찰 일기, 그림 에세이로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "화면 가득한 진한 색이 매력인 사진: 조명 쇼, 꽃밭(대부분 흑백 선이 됩니다)",
+      "정확한 비율이 필요한 제품 사진, 증명사진, 건축 도면",
+      "깔끔한 벡터 선이나 사진 윤곽선 필터 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسوم يوميات سفر بلمسات أقلام ملونة",
+    "tagline": "يحوّل الصورة إلى رسم سريع بالحبر الأسود في دفتر سفر مع لمسات قليلة بالأقلام الملونة.",
+    "look": "يُعاد رسم العنصر الرئيسي بخطوط يدوية سوداء حرّة: خطوط مرتعشة وضربات مكررة وتوقفات صغيرة، مع تظليل خطي كثيف للشعر والملابس والنباتات والظلال، ونِسب فيها شيء من البساطة، كأنه رسم سريع في دفتر رحلات. يبقى معظم الرسم خطوطاً سوداء وفراغاً أبيض، ولا يُختار إلا لونان إلى أربعة من أبرز ألوان الصورة توضع بالقلم الملون أو بطبقة خفيفة على الملابس أو الوجه أو النباتات أو شيء أساسي. ويُختزل المحيط إلى الضروري فقط، كخط أفق أو شارع أو حدود مبنى، مع عنصر صغير وفراغ واسع. وتظهر في الهوامش ملاحظات قصيرة كأنها من دفتر مشاهدات.",
+    "traits": ["خطوط رسم سوداء", "تظليل خطي", "لمسات أقلام ملونة", "دفتر سفر", "فراغ أبيض واسع"],
+    "good": [
+      "لقطات من الرحلات والشوارع: شخص في مقهى، نزهة على البحر، ناصية شارع قديم، رصيف محطة",
+      "أشخاص وأشياء فيها ملابس أو إكسسوارات أو نباتات يمكن تلوينها: شخص بقبعة قش، باقة زهور، دراجة",
+      "صور تريدها صفحة في دفتر سفر أو يوميات مشاهدات أو مقالة مصوّرة"
+    ],
+    "poor": [
+      "صور تعتمد على ألوان كاملة مشبعة كعروض الإضاءة وحقول الزهور، إذ يتحول معظمها إلى خطوط سوداء",
+      "صور منتجات أو صور هوية أو رسوم معمارية تحتاج إلى نِسب دقيقة",
+      "طلب خطوط متجهية مرتبة أو مظهر مرشّح يحدد حواف الصورة"
+    ]
+  }
+}
